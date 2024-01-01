@@ -6,6 +6,8 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirbnbPortfolioProjectFin
 
 https://public.tableau.com/app/profile/aaron.olson/viz/AirbnbPortfolioProjectFinal/Dashboard2
 
+![image](https://github.com/A-Olson8/Portfolio-2/assets/95314634/f3d673f0-3dab-4193-8be6-34536952d353)
+
 https://public.tableau.com/app/profile/aaron.olson/viz/AirbnbPortfolioProjectFinal/Dashboard3
 
 https://public.tableau.com/app/profile/aaron.olson/viz/AirbnbPortfolioProjectFinal/Dashboard4
