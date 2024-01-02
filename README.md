@@ -21,7 +21,9 @@
 
 ![image](https://github.com/A-Olson8/Portfolio-2/assets/95314634/55ffc7c1-6e88-42f8-88f4-37f40a106575)
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
+
+&nbsp;
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;After analysing the charts, Winston narrows down his area of interest into 4 zipcodes (02109, 02115, 02116, 02118).  He asks for some additional charts that go further in depth on the compitition within these specific zipcodes. 
 
