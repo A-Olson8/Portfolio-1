@@ -21,12 +21,12 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirbnbPortfolioProjectFin
 
 ![image](https://github.com/A-Olson8/Portfolio-2/assets/95314634/55ffc7c1-6e88-42f8-88f4-37f40a106575)
 
-
+&nbsp;
 
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;After looking throughout the charts, Winston narrows down his area of interest into 4 zipcodes(02109, 02115, 02116, 02118).  He asks for some additional charts for those specific zipcodes. Specifically, he want to know.. 
 
-
+&nbsp;
 
 
 https://public.tableau.com/app/profile/aaron.olson/viz/AirbnbPortfolioProjectFinal/Dashboard5
@@ -42,6 +42,6 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirbnbPortfolioProjectFin
 ![image](https://github.com/A-Olson8/Portfolio-2/assets/95314634/f039cd3b-5599-4f83-ba05-e9e6dface554)
 
 
-
+&nbsp;
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;After looking through all of the charts (and doing some additional research on zillow), winston choose a ..
