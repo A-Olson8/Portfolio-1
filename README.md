@@ -23,7 +23,7 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirbnbPortfolioProjectFin
 
 &nbsp;&nbsp;&nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;After looking throughout the charts, Winston narrows down his area of interest into 4 zipcodes(02109, 02115, 02116, 02118).  He asks for some additional charts that go further in depth on how much demand there is within these specific zipcodes. 
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;After looking throughout the charts, Winston narrows down his area of interest into 4 zipcodes(02109, 02115, 02116, 02118).  He asks for some additional charts that go further in depth on the compitition within these specific zipcodes. 
 
 &nbsp;
 
