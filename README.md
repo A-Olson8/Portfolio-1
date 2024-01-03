@@ -49,4 +49,4 @@
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;After looking through all of the charts (and doing some additional research on zillow), winston chose a ..
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;After looking through all of the charts (and doing some additional research on zillow), winston is in the process of buying a one bedroom condo within zipcode 02116.
