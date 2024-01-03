@@ -1,6 +1,6 @@
 # Portfolio-2/ Airbnb Project
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;A friend named Winston wants to buy a rental to use as an AirBnb in Boston, Massechusetts.  He is asking for some charts showing how competitive the market is throughout the different neighborhoods (shown as zipcodes) in Boston.  He also wants to know how much demand there is for different sized housing throughout the city.  Since the data is from AirBnb, there is no information on the price of each house or the square footage, but it does show the number of bedrooms/bathrooms, and the different locations of AirBnbs throughout the city.
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;A friend named Winston wants to buy a rental to use as an AirBnb in Boston, Massechusetts.  He is asking for some charts showing how competitive the market is throughout the different neighborhoods (shown as zipcodes) in Boston.  He also wants to know how much demand there is for different sized housing throughout the city.  Since the data is from AirBnb, there is no information on the price of each house or the square footage, but it does show the number of bedrooms/bathrooms, earnings, and the different locations of AirBnbs throughout the city.
 
 &nbsp;
 
